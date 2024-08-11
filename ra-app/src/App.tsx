@@ -15,7 +15,7 @@ const App = () => (
       name="posters"
       list={PosterList}
       edit={PosterEdit}
-      create={PosterCreate}
+         create={PosterCreate}
     />
     <Resource
       name="categories"
